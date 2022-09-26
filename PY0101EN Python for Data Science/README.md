@@ -1,7 +1,7 @@
 # IBM-Cognitiveclass Python for Data Science
 Cognitiveclass - PY0101EN Python for Data Science
 
-[Go to course website](https://courses.cognitiveclass.ai/courses/course-v1:Cognitiveclass+PY0101EN+v2/courseware/da924c023b9b4009972ea7f973a572b8/f2a42aed811f417cab4f0a064a469218/)
+[Go to course website](https://courses.cognitiveclass.ai/courses/course-v1:Cognitiveclass+PY0101EN+v2/course/)
 
 ## Syllabus
 ### Module 1 - Python Basics
